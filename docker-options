@@ -1,3 +1,4 @@
-IMAGE_NAME="tartan/online"
+# TODO: Transfer this docker repo to a tartan org owner
+IMAGE_NAME="josharabia/tartan"
 
 VERSION="1.0.0"
